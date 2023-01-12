@@ -101,7 +101,7 @@ const Me = () => {
 
                                     <div className=' flex flex-row justify-between w-[8rem]  py-12'>
                                        <div>     
-                                         <h1 className='cursor-pointer text-xl font-semibold text-white ' to="about" spy={true} smooth={true} offset={10} duration={700}><a href='https://drive.google.com/file/d/1Nt4pRJMZT8ly9czIr6yR6baHLzZ5mC9V/view'><u>resume</u></a></h1>
+                                         <h1 className='cursor-pointer text-xl font-semibold text-white ' to="about" spy={true} smooth={true} offset={10} duration={700}><a href='https://drive.google.com/file/d/1lxEePzFNT4mQQsCDWHg9bBLsgTXiXSjc/view?usp=share_link'><u>resume</u></a></h1>
                                        </div> 
                                          <h1 className='text-[10px] mx-2' >○</h1>
                                        <div>     
